@@ -7,7 +7,7 @@ show_reading_time: false
 
 Hi! My name is [Your Full Name]
 
-### Development Environment
+### Me, myself, and team
 
 > Coding starts with tools, explore these tools and procedures with a click.
 
