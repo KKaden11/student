@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-I have lived all my life in the United States
+I have lived all my life in the United States.
 <comment>
 Flags are made using Wikipedia images
 </comment>
