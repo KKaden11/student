@@ -111,15 +111,16 @@ Here are some places I have visited
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+Everything for me revolves around family and friends.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
+- My mom told me that I was German, English. and Persian.
 - I have a little brother, as well as a mom and dad. On my moms side, my I have a grandma, grandpa, great grandma, and a couple aunts and uncles, as well as cousins. On my dads sides, I have multiple uncles and aunts.
 - The gallery of pics has some of my family, fun, culture and faith memories.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
+
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
