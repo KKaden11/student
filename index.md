@@ -34,8 +34,8 @@ Hi! My name is Kaden
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #143a5eff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Snake Game
+        <div style="background-color: #497516ff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Snake 
         </div>
     </a>
     <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
