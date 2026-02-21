@@ -33,14 +33,29 @@ Hi! My name is Kaden
 > Here is my progress through coding, click to see these online
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #497516ff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Snake 
+    <a href="{{site.baseurl}}/snake/" style="text-decoration: none;">
+        <div style="background-color: #9C27B0; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Snake
         </div>
     </a>
-    <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
-        <div style="background-color: #49bb1cff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+    <a href="{{site.baseurl}}/turtle/" style="text-decoration: none;">
+        <div style="background-color: #8E24AA; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Turtle
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/foundation/homework/" style="text-decoration: none;">
+        <div style="background-color: #8A2BE2; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Homework
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/foundation/my-key-accomplishments/" style="text-decoration: none;">
+        <div style="background-color: #7B1FA2; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            My Key Accomplishments
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/foundation/night-at-the-museum/" style="text-decoration: none;">
+        <div style="background-color: #6A1B9A; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Night at the Museum
         </div>
     </a>
 </div>
