@@ -10,3 +10,6 @@ permalink: /foundation/nested-conditionals/
 ## Nested Conditionals
 
 This blog is about nested conditionals.
+
+
+I Taught Nested Conditionals
